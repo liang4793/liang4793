@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yang2008-py
 - 👀 I’m interested in all the resources
 - 🌱 I’m currently learning python
-- 📫 How to reach me 3500506060@qq.com
+- 📫 Email:3500506060@qq.com
+- 🔗 Oh，there's my BLOG，welcome! https://blog.csdn.net/weixin_45739505
 - 🥪 Emm... that's all
 
 <!---
