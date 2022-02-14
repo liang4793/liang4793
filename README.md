@@ -2,7 +2,7 @@
 - 👀 I’m interested in all the resources
 - 🌱 I’m currently learning python
 - 📫 Email:3500506060@qq.com
-- 🔗 Oh，there's my BLOG，welcome! [Click me!](https://blog.csdn.net/weixin_45739505 "Quick! Click it!")
+- 🔗 Oh，I'm also making my website.
 - 🥪 Emm... that's all
 
 <!---
