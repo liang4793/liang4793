@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liang4793
 - 👀 I’m interested in all the resources
-- 🌱 I’m currently learning python
+- 🗃️ I’m currently learning python and other things
 - 📫 Email:3500506060@qq.com
 - 🔗 Oh，I'm also making my website.
 - 🥪 Emm... that's all
