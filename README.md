@@ -3,7 +3,6 @@
 - 🗃️ I’m currently learning python and other things
 - 📫 Email:3500506060@qq.com
 - 🔗 Oh，I'm also making my website.
-- 🥪 Emm... that's all
 
 <!---
 Yang2008-py/Yang2008-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
