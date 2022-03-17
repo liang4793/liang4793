@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @liang4793
 - 👀 I’m interested in all the resources
-- 🗃️ I’m currently learning python and other things
-- 📫 Email:3500506060@qq.com
-- 🔗 Oh，I'm also making my website.
+- ❗ I’m currently learning python and other things
+- 📫 Email: <3500506060@qq.com>
+- 🔗 Oh，I'm also making my website. [Check in out!](https://liang4793.github.io/)
 
 <!---
 Yang2008-py/Yang2008-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
