@@ -2,7 +2,7 @@
 - 👀 I’m interested in all the resources
 - ❗ I’m currently learning python and other things
 - 📫 Email: <3500506060@qq.com>
-- 🔗 Oh，I'm also making my website. [Check in out!](https://liang4793.github.io/)
+- 🔗 Oh，I'm also making my personal website. [Check it out!](https://liang4793.github.io/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liang4793&show_icons=true&theme=light&count_private=true)
 
