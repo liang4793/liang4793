@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liang4793
+- 👋 Hi there, I’m @liang4793
 - 👀 I’m interested in all the resources
 - ❗ I’m currently learning python, js and other languages
 - 📫 Contact me: <3500506060@qq.com>
