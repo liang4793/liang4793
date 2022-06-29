@@ -1,9 +1,13 @@
-@Liang4793 from Shanghai, Student  
+@Liang4793 from Shanghai, Student.  
 📩Mail: <3500506060@qq.com> 🔗Website: [Liang4793's Repository](https://liang4793.github.io/)
 
 Interested in Python, HTML, CSS, JavaScript...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liang4793&show_icons=true&theme=light&count_private=true)
+
+<a href="https://github.com/liang4793">
+  <img src="https://count.getloli.com/get/@:liang4793" alt="liang4793" />
+</a>
 
 <!---
 Yang2008-py/Yang2008-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
