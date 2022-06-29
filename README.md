@@ -1,5 +1,5 @@
 @Liang4793 from Shanghai, Student  
-📩Mail: <3500506060@qq.com> 🔗Website: [Liang4793's repository](https://liang4793.github.io/)
+📩Mail: <3500506060@qq.com> 🔗Website: [Liang4793's Repository](https://liang4793.github.io/)
 
 Interested in Python, HTML, CSS, JavaScript...
 
