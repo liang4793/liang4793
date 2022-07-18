@@ -1,7 +1,8 @@
 @Liang4793 from Shanghai, Student.  
 📩Mail: <3500506060@qq.com> 🔗Website: [Liang4793's Repository](https://liang4793.github.io/)
 
-Interested in Python, HTML, CSS, JavaScript...
+Interested in: Python, HTML, CSS, JavaScript...  
+Editors: WindowsTerminal, VsCode...  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liang4793&show_icons=true&theme=light&count_private=true)
 
