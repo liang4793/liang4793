@@ -4,8 +4,7 @@
 Interested in: Interface design, Front end development and network security....  
 Editors: VSCode...  
 
-![Liang4793's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liang4793&show_icons=true&hide_title=true&include_all_commits=true&theme=nord)
-
+[![wakatime](https://wakatime.com/badge/user/bcc1fa49-5f0a-41c1-be2c-bf9752544547.svg?style=for-the-badge)](https://wakatime.com/@bcc1fa49-5f0a-41c1-be2c-bf9752544547)
 <!---
 Yang2008-py/Yang2008-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
