@@ -1,5 +1,5 @@
 @Liáng4793 from Shanghai, Student.  
-📩Mail: <3500506060@qq.com> 🔗Website: [Liáng4793's Repository](https://liang4793.github.io/)
+📩Mail: <liang4793@foxmail.com> 🔗Website: [Liáng4793's Repository](https://liang4793.github.io/)
 
 Interested in: interested in product design, software development and network security...  
 Editors: VSCode...  
